@@ -4,7 +4,7 @@
 
 
 <br /> 
-<h1 align="center">Hi 👋, I'm Mohammedd Ansif k</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Ansif k</h1>
 <h3 align="center">Student at Learn Logic AI, Manjery🌟.</h3>
 
 <br>
